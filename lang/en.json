@@ -6,7 +6,7 @@
     }
   },
   "ACTOR": {
-    "TypeCharacter": "Wicked One",
+    "TypeCharacter": "Player Character",
     "TypeMinion_pack": "Minion Pack",
     "TypeDungeon": "Dungeon",
     "TypeFaction": "Faction",
