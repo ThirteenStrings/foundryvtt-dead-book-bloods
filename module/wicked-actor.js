@@ -24,8 +24,8 @@ export class WickedActor extends Actor {
         case "minion_pack":
         case "party":
           // Replace default image
-          data.img = `systems/wicked-ones/styles/assets/default-images/${data.type}.webp`;
-          data.token.img = `systems/wicked-ones/styles/assets/default-images/${data.type}-token.webp`;
+          data.img = `systems/foundryvtt-dead-book-bloods/styles/assets/default-images/${data.type}.webp`;
+          data.token.img = `systems/foundryvtt-dead-book-bloods/styles/assets/default-images/${data.type}-token.webp`;
           data.token.actorLink = true;
           break;
         case "clock":

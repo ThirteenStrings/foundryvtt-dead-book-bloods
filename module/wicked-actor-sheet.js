@@ -11,7 +11,7 @@ export class WickedActorSheet extends WickedSheet {
 	static get defaultOptions() {
 	  return mergeObject(super.defaultOptions, {
           classes: ["wicked-ones", "sheet", "actor"],
-          template: "systems/wicked-ones/templates/actor-sheet.html",
+          template: "systems/foundryvtt-dead-book-bloods/templates/actor-sheet.html",
       width: 820,
       height: 970,
       tabs: [{navSelector: ".tabs", contentSelector: ".tab-content", initial: "abilities"}]

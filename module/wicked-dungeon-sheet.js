@@ -10,7 +10,7 @@ export class WickedDungeonSheet extends WickedSheet {
 	static get defaultOptions() {
 	  return mergeObject(super.defaultOptions, {
           classes: ["wicked-ones", "sheet", "actor"],
-          template: "systems/wicked-ones/templates/dungeon-sheet.html",
+          template: "systems/foundryvtt-dead-book-bloods/templates/dungeon-sheet.html",
       width: 600,
       height: 850,
       tabs: [{ navSelector: ".tabs", contentSelector: ".tab-content", initial: "rooms"}]

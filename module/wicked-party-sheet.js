@@ -10,7 +10,7 @@ export class WickedPartySheet extends WickedSheet {
 	static get defaultOptions() {
 	  return mergeObject(super.defaultOptions, {
           classes: ["wicked-ones", "sheet", "actor"],
-          template: "systems/wicked-ones/templates/party-sheet.html",
+          template: "systems/foundryvtt-dead-book-bloods/templates/party-sheet.html",
       width: 830,
       height: 620,
       tabs: []

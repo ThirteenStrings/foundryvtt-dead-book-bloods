@@ -113,7 +113,7 @@ async function showChatRollMessage(r, zeromode, attribute_name = "", position = 
     }
   }
 
-  let result = await renderTemplate("systems/wicked-ones/templates/wicked-roll.html", { rolls: rolls, roll_type: roll_type, roll_status_class: roll_status, roll_status_text: roll_status_text, attribute_label: attribute_label, position: position_localize, effect: effect_localize, roll_description: roll_description, zeromode: zeromode, char_name: char_name });
+  let result = await renderTemplate("systems/foundryvtt-dead-book-bloods/templates/wicked-roll.html", { rolls: rolls, roll_type: roll_type, roll_status_class: roll_status, roll_status_text: roll_status_text, attribute_label: attribute_label, position: position_localize, effect: effect_localize, roll_description: roll_description, zeromode: zeromode, char_name: char_name });
 
   let messageData = {
     user: game.user.id,

@@ -12,7 +12,7 @@ export class WickedItem extends Item {
     if (Object.keys(data).includes("type")) {
 
       // Replace default image
-      let path = `systems/wicked-ones/styles/assets/icons/`;
+      let path = `systems/foundryvtt-dead-book-bloods/styles/assets/icons/`;
       switch (data.type) {
         case "adventurer":
           path += 'Icon.1_05';

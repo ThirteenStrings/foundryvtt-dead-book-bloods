@@ -10,7 +10,7 @@ export class WickedGMSheet extends WickedSheet {
 	static get defaultOptions() {
 	  return mergeObject(super.defaultOptions, {
           classes: ["wicked-ones", "sheet", "gamemaster"],
-          template: "systems/wicked-ones/templates/gm-sheet.html",
+          template: "systems/foundryvtt-dead-book-bloods/templates/gm-sheet.html",
       width: 830,
       height: 850,
       tabs: [{ navSelector: ".tabs", contentSelector: ".tab-content", initial: "clocks" }]

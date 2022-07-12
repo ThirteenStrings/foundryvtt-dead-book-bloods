@@ -10,7 +10,7 @@ export class WickedFactionSheet extends WickedSheet {
 	static get defaultOptions() {
 	  return mergeObject(super.defaultOptions, {
           classes: ["wicked-ones", "sheet", "actor"],
-          template: "systems/wicked-ones/templates/faction-sheet.html",
+          template: "systems/foundryvtt-dead-book-bloods/templates/faction-sheet.html",
       width: 400,
       height: 500,
       tabs: []
@@ -60,7 +60,7 @@ export class WickedFactionSheet extends WickedSheet {
       return;
     }
 
-    let image_path = `systems/wicked-ones/styles/assets/default-images/faction-token-${formData['data.category']}-${Math.max(1,formData['data.tier.value'])}.webp`;
+    let image_path = `systems/foundryvtt-dead-book-bloods/styles/assets/default-images/faction-token-${formData['data.category']}-${Math.max(1,formData['data.tier.value'])}.webp`;
     formData['token.img'] = image_path;
     let data = [];
     let image = {

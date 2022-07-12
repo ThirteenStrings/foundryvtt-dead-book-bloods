@@ -11,7 +11,7 @@ export class WickedClockSheet extends WickedSheet {
 	static get defaultOptions() {
 	  return mergeObject(super.defaultOptions, {
           classes: ["wicked-ones", "sheet", "actor"],
-          template: "systems/wicked-ones/templates/actors/clock-sheet.html",
+          template: "systems/foundryvtt-dead-book-bloods/templates/actors/clock-sheet.html",
       width: 600,
       height: 390,
     });
@@ -37,7 +37,7 @@ export class WickedClockSheet extends WickedSheet {
   /** @override */
   async _updateObject(event, formData) {
 
-    let image_path = `/systems/wicked-ones/styles/assets/progressclocks-webp/${formData['data.style']}-${formData['data.type']}-${formData['data.value']}.webp`;
+    let image_path = `/systems/foundryvtt-dead-book-bloods/styles/assets/progressclocks-webp/${formData['data.style']}-${formData['data.type']}-${formData['data.value']}.webp`;
 
     formData['img'] = image_path;
     formData['token.img'] = image_path;

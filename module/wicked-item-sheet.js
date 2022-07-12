@@ -120,7 +120,7 @@ export class WickedItemSheet extends ItemSheet {
 
   /** @override */
   get template() {
-      const path = "systems/wicked-ones/templates/items";
+      const path = "systems/foundryvtt-dead-book-bloods/templates/items";
     let simple_item_types = ["defense", "minionimpulse", "minion_type", "revelry", "wickedimpulse" ];
     let template_name = `${this.item.data.type}`;
 

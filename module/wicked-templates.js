@@ -9,7 +9,7 @@ export const preloadHandlebarsTemplates = async function() {
   const templatePaths = [
 
     // Actor Sheet Partials
-    "systems/wicked-ones/templates/parts/attributes.html",
+    "systems/foundryvtt-dead-book-bloods/templates/parts/attributes.html",
   ];
 
   // Load the template parts
