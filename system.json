@@ -42,7 +42,7 @@
     {
       "name": "adventurer",
       "label": "Adventurers",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/adventurers.db",
       "entity": "Item",
       "type": "Item"
@@ -50,7 +50,7 @@
     {
       "name": "calling",
       "label": "Callings",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/callings.db",
       "entity": "Item",
       "type": "Item"
@@ -58,7 +58,7 @@
     {
       "name": "minion_upgrade",
       "label": "Minion Upgrades",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/minion_upgrades.db",
       "entity": "Item",
       "type": "Item"
@@ -66,7 +66,7 @@
     {
       "name": "minion_type",
       "label": "Minion Types",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/minion_types.db",
       "entity": "Item",
       "type": "Item"
@@ -74,7 +74,7 @@
     {
       "name": "monster_race",
       "label": "Monster Races",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/monsterraces.db",
       "entity": "Item",
       "type": "Item"
@@ -82,7 +82,7 @@
     {
       "name": "goldmonger_type",
       "label": "Goldmonger Types",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/goldmongertypes.db",
       "entity": "Item",
       "type": "Item"
@@ -90,7 +90,7 @@
     {
       "name": "revelry",
       "label": "Revelries",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/revelries.db",
       "entity": "Item",
       "type": "Item"
@@ -98,7 +98,7 @@
     {
       "name": "wickedimpulse",
       "label": "Wicked One Impulses",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/wickedimpulses.db",
       "entity": "Item",
       "type": "Item"
@@ -106,7 +106,7 @@
     {
       "name": "defense",
       "label": "Defenses",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/defenses.db",
       "entity": "Item",
       "type": "Item"
@@ -114,7 +114,7 @@
     {
       "name": "minionimpulse",
       "label": "Minion Impulses",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/minionimpulses.db",
       "entity": "Item",
       "type": "Item"
@@ -122,7 +122,7 @@
     {
       "name": "gearsupply",
       "label": "Gear & Supply",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/gearsupply.db",
       "entity": "Item",
       "type": "Item"
@@ -130,7 +130,7 @@
     {
       "name": "duty",
       "label": "Duties",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/duties.db",
       "entity": "Item",
       "type": "Item"
@@ -138,7 +138,7 @@
     {
       "name": "project",
       "label": "Projects",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/projects.db",
       "entity": "Item",
       "type": "Item"
@@ -146,7 +146,7 @@
     {
       "name": "specialability",
       "label": "Special Abilities",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/specialabilities.db",
       "entity": "Item",
       "type": "Item"
@@ -154,7 +154,7 @@
     {
       "name": "invasion",
       "label": "Major Invasions",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/invasions.db",
       "entity": "Item",
       "type": "Item"
@@ -162,7 +162,7 @@
     {
       "name": "dungeon_theme",
       "label": "Dungeon Themes",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/dungeon_themes.db",
       "entity": "Item",
       "type": "Item"
@@ -170,7 +170,7 @@
     {
       "name": "tier3room",
       "label": "Tier-3 Rooms",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "./packs/tier3rooms.db",
       "entity": "Item",
       "type": "Item"
@@ -178,7 +178,7 @@
     {
       "name": "rollable-tables",
       "label": "Rollable Tables",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "packs/rollable-tables.db",
       "entity": "RollTable",
       "type": "RollTable"
@@ -186,7 +186,7 @@
     {
       "name": "dungeon-generator",
       "label": "Dungeon Generator",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "packs/dungeon-generator.db",
       "entity": "RollTable",
       "type": "RollTable"
@@ -194,7 +194,7 @@
     {
       "name": "wo-macros",
       "label": "Macros",
-      "system": "wicked-ones",
+      "system": "foundryvtt-dead-book-bloods",
       "path": "packs/macros.db",
       "entity": "Macro",
       "type": "Macro"
