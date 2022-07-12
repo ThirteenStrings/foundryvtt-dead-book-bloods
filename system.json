@@ -36,7 +36,7 @@
     }
   ],
   "url": "https://github.com/ThirteenStrings/foundryvtt-dead-book-bloods/",
-  "manifest": "https://github.com/ThirteenStrings/foundryvtt-dead-book-bloods/releases/latest/download/system.json",
+  "manifest": "https://raw.githubusercontent.com/ThirteenStrings/foundryvtt-dead-book-bloods/master/system.json",
   "download": "https://github.com/ThirteenStrings/foundryvtt-dead-book-bloods/archive/refs/heads/master.zip",
   "packs": [
     {
