@@ -1,13 +1,13 @@
 {
-  "name": "wicked-ones",
-  "title": "Wicked Ones",
-  "description": "Official system for the Wicked Ones game made by Bandit Camp. Including official compendium content, all you need to slay some adventurers!",
+  "name": "dead-book-bloods",
+  "title": "Dead Book Bloods",
+  "description": "Official system for the Dead Book Bloods game made by Rogue's Valor Gaming.",
   "version": "WILL BE AUTO REPLACED",
   "minimumCoreVersion": "0.8.4",
   "compatibleCoreVersion": "9.245",
   "templateVersion": 1,
   "background": "styles/assets/images/WO-Header.webp",
-  "author": "Spearhead, LorduFreeman",
+  "author": "Spearhead, LorduFreeman (original Wicked Ones sheet), ThirteenStrings (Dead Book Bloods adaptation)",
   "authors": [
     {
       "name": "Spearhead",
@@ -16,6 +16,10 @@
     {
       "name": "LorduFreeman",
       "discord": "LorduFreeman#8747"
+    },
+    {
+      "name": "ThirteenStrings",
+      "discord": "ThirteenStrings#0566"
     }
   ],
   "esmodules": [
@@ -31,9 +35,9 @@
       "path": "lang/en.json"
     }
   ],
-  "url": "https://github.com/eHanus/foundryvtt-wicked-ones/",
-  "manifest": "https://raw.githubusercontent.com/eHanus/foundryvtt-wicked-ones/releases/latest/download/system.json",
-  "download": "https://github.com/eHanus/foundryvtt-wicked-ones/releases/latest/download/system.zip",
+  "url": "https://github.com/ThirteenStrings/foundryvtt-dead-book-bloods/",
+  "manifest": "https://raw.githubusercontent.com/ThirteenStrings/foundryvtt-dead-book-bloods/master/system.json",
+  "download": "https://raw.githubusercontent.com/ThirteenStrings/foundryvtt-dead-book-bloods/master/system.zip",
   "packs": [
     {
       "name": "adventurer",
