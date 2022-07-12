@@ -37,7 +37,7 @@
   ],
   "url": "https://github.com/ThirteenStrings/foundryvtt-dead-book-bloods/",
   "manifest": "https://github.com/ThirteenStrings/foundryvtt-dead-book-bloods/releases/latest/download/system.json",
-  "download": "https://github.com/ThirteenStrings/foundryvtt-dead-book-bloods/releases/latest/download/master.zip",
+  "download": "https://github.com/ThirteenStrings/foundryvtt-dead-book-bloods/archive/refs/heads/master.zip",
   "packs": [
     {
       "name": "adventurer",
