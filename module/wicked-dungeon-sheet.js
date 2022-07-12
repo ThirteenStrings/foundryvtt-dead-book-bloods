@@ -5,7 +5,7 @@ import { WickedSheet } from "./wicked-sheet.js";
  * @extends {WickedSheet}
  */
 export class WickedDungeonSheet extends WickedSheet {
-
+  
   /** @override */
 	static get defaultOptions() {
 	  return mergeObject(super.defaultOptions, {
