@@ -11,7 +11,7 @@ export class WickedMinionSheet extends WickedSheet {
 	static get defaultOptions() {
 	  return mergeObject(super.defaultOptions, {
           classes: ["wicked-ones", "sheet", "actor"],
-      template: "systems/wicked-ones/templates/minion-sheet.html",
+      template: "systems/foundryvtt-dead-book-bloods/templates/minion-sheet.html",
       width: 650,
       height: 770,
       tabs: [{ navSelector: ".tabs", contentSelector: ".tab-content", initial: "upgrades" }]
